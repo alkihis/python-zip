@@ -1,13 +1,17 @@
 {
   "name": "python-zip",
   "version": "1.0.3",
-  "description": "",
+  "description": "Iterate through Iterables together, until all or one of the iterables are over",
   "main": "build/index.js",
   "scripts": {
     "compile": "tsc && tsc -d",
     "publish-patch": "npm version patch && npm publish"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "python", "zip", "iterate"
+  ],
+  "author": "Louis Béranger",
+  "license": "CC BY-SA 4.0",
+  "repository": "https://github.com/alkihis/python-zip",
+  "bugs": "https://github.com/alkihis/python-zip/issues"
 }
