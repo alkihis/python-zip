@@ -4,6 +4,12 @@
 
 Python's build-in function in JS.
 
+# Install
+
+```bash
+npm i python-zip
+```
+
 # Usage
 
 Default export is the "classic" zip function (quitting when one of the iterable is over).
