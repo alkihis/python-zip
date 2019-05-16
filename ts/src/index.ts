@@ -1,5 +1,5 @@
 /**
- * Iterate through Iterables together, until one of the iterable are over
+ * Iterate through Iterables together, until one of the iterables is over
  * @param its Numerous iterable objects (n)
  * @yields Tuple of n values
  */

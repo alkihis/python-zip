@@ -12,9 +12,9 @@ npm i python-zip
 
 # Usage
 
-Default export is the "classic" zip function (quitting when one of the iterable is over).
+Default export is the "classic" zip function (quitting when one of the iterables is over).
 
-Another export is the `zipLongest` function, who iterates until all the iterables is over.
+Another export is the `zipLongest` function, who iterates until all the iterables are over.
 
 ## Default
 ```ts
