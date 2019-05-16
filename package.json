@@ -1,6 +1,6 @@
 {
   "name": "python-zip",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Iterate through Iterables together, until all or one of the iterables are over",
   "main": "build/index.js",
   "scripts": {
@@ -8,7 +8,9 @@
     "publish-patch": "npm version patch && npm publish"
   },
   "keywords": [
-    "python", "zip", "iterate"
+    "python",
+    "zip",
+    "iterate"
   ],
   "author": "Louis Béranger",
   "license": "CC BY-SA 4.0",
