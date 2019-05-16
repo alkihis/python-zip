@@ -1,0 +1,13 @@
+{
+  "name": "python-zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "compile": "tsc && tsc -d",
+    "publish": "npm version patch && npm publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
